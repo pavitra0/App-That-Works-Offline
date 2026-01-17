@@ -1,0 +1,7 @@
+{
+  "name": "Resilient Connect",
+  "description": "An offline-first emergency reporting platform designed for disaster recovery and rural areas with unreliable internet connectivity.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
